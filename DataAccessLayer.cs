@@ -10,6 +10,7 @@ using System.Threading.Tasks;
 
 namespace DAL
 {
+    //hi
     public class DataAccessLayer
     {
         static string connstring = "Data source = localhost; Initial Catalog = dbProperties; Integrated Security = True ";
